@@ -1,0 +1,10 @@
+tại sao app bị treo khi sử dụng chế độ hiển thị nét?
+chức năng ốp lát có những thành phần gì?
+làm thế nào để sử dụng chức năng thiết kế tủ bếp?
+prosal gạch là gì?
+khi dựng 1 phòng trong H3D có thể save lại hay copy vào 1 dự án khác cho nhanh không? Hay phải dựng lại từ đầu ?
+có share được favourite trong các tài khoản cùng 1 tổ chức không?
+có thể hỗ trợ chuyển dổi view không gian nhanh?
+hệ thống phím tắt trong House3D?
+house3D có chức năng lưu góc chụp không gian không?
+làm thế nào để di chuyển đối tượng đến vị trí mong muốn ?

@@ -1,0 +1,8 @@
+House3D có chia các đồ vật theo các nhóm cùng phong cách, màu sắc... ?
+tìm cửa cuốn ở đâu?
+thư viện ô tô nằm ở đâu?
+tìm quần áo, giá quần áo ở đâu?
+thư viện của House3D ít model, không đa dạng?
+thư viện cầu thang nằm ở đâu, có thể chỉnh sửa cầu thang không?
+có thể tạo cột được không, có thư viện cột không?
+thư viện shop thời trang nằm ở đâu?

@@ -1,0 +1,14 @@
+chức năng tự đông bắt dính là gì?
+điểm bắt dính free là gì?
+điểm bắt dính top là gì?
+điểm bắt dính wall là gì?
+điểm bắt dính desktop là gì?
+điểm bắt dính floor adsorb là gì?
+điểm bắt dính floor là gì?
+điểm bắt dính stick floor là gì?
+làm thế nào có thể đặt vật tự động bám trên sàn nhà bằng điểm bắt dính ?
+làm thế nào để có thể tự động xếp chồng lên đồ vật khác bằng chức năng tự động bắt dính ?
+làm thế nào để tự động dính đồ vật lên trần nhà (như đèn, quạt) bằng chức năng tự động bắt dính ?
+làm thế nào để bắt dính góc cạnh của viên gạch ?
+tắt chế độ bắt dính như thế nào ?
+có tài liệu giới thiệu về chức năng tự động bắt dính của phần mềm không ?

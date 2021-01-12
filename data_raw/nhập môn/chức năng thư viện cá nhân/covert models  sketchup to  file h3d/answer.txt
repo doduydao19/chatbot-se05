@@ -1,0 +1,1 @@
+bạn có thể tìm hiểu chi tiết vê cách convert model từ file sketchup sang file h3d qua tài liếu sau: https://academy.house3d.com/guide/covert-models-tu-file-sketchup-sang-file-h3d?lang=vi

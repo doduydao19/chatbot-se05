@@ -1,0 +1,10 @@
+cách chỉnh sửa tag của texture cho gian hàng?
+cách xoá tag của texture cho gian hàng?
+cách gán tag của texture cho gian hàng?
+cách thêm mới texture cho gian hàng?
+có tài liệu hướng dẫn cách chỉnh sửa texture cho gian hàng?
+xem danh sách các texture của gian hàng ở đâu?
+cách tải file texture lên gian hàng?
+có thể thay đổi các thông tin của texture trong gian hàng không?
+gán tag cho texture ở đâu?
+cách tải ảnh texture lên gian hàng?

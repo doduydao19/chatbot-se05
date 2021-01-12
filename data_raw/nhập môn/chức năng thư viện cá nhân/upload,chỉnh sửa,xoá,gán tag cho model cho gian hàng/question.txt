@@ -1,0 +1,7 @@
+làm thế nào để upload model cho gian hàng của mình?
+cần phải nhập những thông tin gì để upload model cho gian hàng?
+những thông tin nào bắt buộc phải điền để upload model cho gian hàng?
+làm thế nào để chỉnh sửa tag cho model của gian hàng ?
+làm thế nào để xoá tag cho model của gian hàng?
+làm thế nào để gán tag cho model của gian hàng?
+có tài liệu hướng dẫn cách upload và chỉnh sửa tag cho model của gian hàng không?

@@ -1,0 +1,7 @@
+bạn có thể tìm hiểu chi tiết danh sách ảnh render tại đây: https://academy.house3d.com/guide/toi-muon-xem-chi-tiet-danh-sach-anh-render?lang=vi
+bạn có thể tìm hiểu cách xử lý map bị tile tại đây: https://academy.house3d.com/guide/xu-ly-map-bi-tile-nhieu?lang=vi
+bạn có thể tìm hiểu cách điều chỉnh ánh sáng render tại đây: https://academy.house3d.com/guide/lam-sao-de-anh-sang-render-trong-thuc-te-hon?lang=vi
+bạn có thể tìm hiêu những lưu ý khi sử dụng tấm bổ trợ ánh sáng tại đây: https://academy.house3d.com/guide/luu-y-khi-su-dung-tam-bo-tro-anh-sang?lang=vit
+bạn có thể tìm hiểu cách nhúng link VR showroom vào website tại đây: https://academy.house3d.com/guide/toi-muon-nhung-link-vr-showroom-vao-website-thi-lam-the-nao?lang=vi
+
+

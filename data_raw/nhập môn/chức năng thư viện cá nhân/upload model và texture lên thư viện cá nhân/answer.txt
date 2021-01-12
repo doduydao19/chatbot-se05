@@ -1,0 +1,1 @@
+bạn có thể tìm hiểu cách upload model và texture lên thư viện cá nhân qua tài liệu sau: https://academy.house3d.com/guide/upload-model-va-texture-len-thu-vien-ca-nhan?lang=vi

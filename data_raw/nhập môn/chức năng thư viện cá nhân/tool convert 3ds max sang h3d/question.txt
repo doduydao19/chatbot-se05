@@ -1,0 +1,10 @@
+làm thế nào để convert model từ 3DSMAX sang HOUSE3D?
+có tài liệu hướng dẫn về cách chuyển model từ 3dsmax sang house3d?
+link tải công cụ tạo h3d model-pulugin trên 3ds max?
+cách cài đặt plugin để convert model từ 3dsmax sang house3d?
+convert từ 3dsmax sang h3d hỗ trợ các model có định dạng nào?
+có video chi tiết để convert model từ 3dsmax sng house3d?
+tính năng U,V map của convert model từ 3dsmax sang house3d?
+cách sử dụng phần vật liệu nâng cao sử dụng trong chủ đề convert model từ 3ds max sng house3d?
+tôi không hiểu rõ về cách chuyển model từ 3dsmax sang house3d?
+nếu trong thực hiện chuyển model từ 3dsmax sang house3d thì có thể liên hệ ai?

@@ -1,0 +1,6 @@
+làm thế nào để tìm lịch sử lưu dự án?
+xem lịch sử đã lưu trước đây của dự án ở đâu?
+tôi có thể dùng lại bản lịch sử dự án đã lưu về không?
+tôi có thể khôi phục lại phần đã làm từ lịch sử dự án không?
+tôi có thể lấy phần đã làm từ lịch sử lưu dự án để tạo thành 1 file mới không?
+tôi có thể xem phiên bản trong lịch sử lưu dự án không?

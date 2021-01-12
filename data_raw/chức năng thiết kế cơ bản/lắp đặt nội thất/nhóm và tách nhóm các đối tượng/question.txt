@@ -1,0 +1,7 @@
+làm thế nào để gộp các đối tượng vào một nhóm?
+làm thế nào để tách nhóm thành các đối tượng?
+tôi không biết chỗ gộp các đối tượng ở đâu?
+tôi không biết chỗ tách nhóm các đối tượng ở đâu?
+có tài liệu hướng dẫn cách gộp và tách nhóm các đối tượng không?
+tôi có thể đặt tên cho nhóm các đối tượng không?
+có thể thêm tối đa bao nhiêu đối tượng vào một nhóm?

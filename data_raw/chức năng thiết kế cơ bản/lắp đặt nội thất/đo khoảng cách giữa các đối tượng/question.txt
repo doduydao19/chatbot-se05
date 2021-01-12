@@ -1,0 +1,11 @@
+làm thế nào để đo khoảng cách giữa các đối tượng?
+có những cách nào để đo khoảng cách giữa các đối tượng?
+làm thế nào để đo khoảng cách từ cột nhà đến tường?
+làm thế nào để đo khoảng cách giữa các đối tượng chính xác?
+đo khoảng cách đối tượng ở chế độ 3D như thế nào?
+đo khoảng cách đối tượng ở chế độ 2D như thế nào?
+đo khoảng cách từ cột nhà pillar đến nội thất như nào?
+khoảng cách tối đa để pillar cách tường là bao nhiêu?
+làm thế nào để điều chỉnh khoảng cách cột pillar về sát tường?
+đơn vị đo khoảng cách giữa các đối tượng là gì?
+có thể chuyển đổi đơn vị đo giữa các đối tượng không?

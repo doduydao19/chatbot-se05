@@ -1,0 +1,5 @@
+tôi muốn xem chi tiết danh sách ảnh Render?
+làm thế nào để xử lý map bị tile nhiều?
+làm sao để ánh sáng render trông thực tế hơn?
+có những lưu ý nào khi sử dụng tấm bổ trợ ánh sáng?
+tôi muốn nhúng link VR showroom vào website thì làm thế nào?

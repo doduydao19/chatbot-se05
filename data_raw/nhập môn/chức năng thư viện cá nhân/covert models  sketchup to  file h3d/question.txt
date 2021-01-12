@@ -1,0 +1,10 @@
+làm thế nào convert model từ file sketchup sang file h3d?
+file sketchup khác file h3d như thế nào ?
+làm thế nào để mở sketchup và cài đặt tool?
+làm thế nào để xuất file từ sketchup?
+làm thế nào đẩy model từ sketchup lên h3d?
+cách tải file h3d tool cho sketchup ở đâu?
+có tài liệu hướng dẫn cách chuyển model từ file sketchup sang file h3d không?
+có thể tuỳ chọn vật liệu nền mong muốn bằng tool chuyển file sketchup không?
+làm thế nào để xuất file từ hous3dtool?
+nếu tôi không hiểu về cách chuyển model từ file sketchup sang file h3d có thể liên hệ với ai?

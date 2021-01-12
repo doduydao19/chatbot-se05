@@ -1,0 +1,7 @@
+làm thế nào đẻ sao chép đối tượng?
+có những cách nào để sao chép đối tượng?
+sao chép đối tượng sử dụng tổ hợp ctr+V khác gì so với phím shift?
+tôi không biết cách sao chép đối tượng?
+làm thế nào để sao chép đối tượng trong dự án?
+sao chép đối tượng như nào?
+sử dụng phím tắt gì để sao chép được đối tượng?

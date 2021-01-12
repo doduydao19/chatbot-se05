@@ -1,0 +1,10 @@
+làm thế nào để upload model lên thư viện cá nhân?
+làm thế nào để upload texture lên thư viện cá nhân?
+cần phải chuẩn bị những gì trước khi upload model lên thư viện cá nhân?
+quy tắc đặt tên khi upload model lên thư viện cá nhân là gì?
+làm thế nào để xem thông tin chi tiết model sau khi upload model lên thư viện cá nhân?
+làm thế nào để chỉnh sửa model sau khi upload model lên thư viện cá nhân?
+làm thế nào để công khai model sau khi upload model lên thư viện cá nhân?
+làm thế nào mở model đã upload model lên thư viện cá nhân?
+làm thế nào để upload texture lên thư viện cá nhân?
+có hướng dẫn chi tiết về cách upload model và texture lên thư viện cá nhân không?

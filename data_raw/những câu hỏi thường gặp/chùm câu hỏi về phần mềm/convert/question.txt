@@ -1,0 +1,6 @@
+House3D có chức năng cho file sketchup vào house3D không ?
+House3D có cách nào export mô hình ra các phần mềm khác không?
+Có import được file mặt bằng cad vào phần mềm không?
+làm thế nào để convert models từ file sketchup sang file 3ds max?
+khi hoàn thành project có thể xuất cad hay pdf dạng vector để gửi cho khách được không?
+tại sao nvert từ 3DS max sang H3D hiện thông báo "Type error: getClassInstances requires MAXclass , got: undefined"

@@ -1,0 +1,11 @@
+phần mềm có sử dụng những phím tắt nào?
+có hướng dẫn chi tiêt một số phím tắt thường dùng không ?
+làm thế nào để xem các phím tắt trên phần mềm ?
+có những loại phím tắt phổ biến tỏng phần mềm ?
+phím tát chuyển đổi chế độ là gì ?
+làm thế nào để di chuyển đối tượng bằng phím tắt trong phần mềm ?
+phím tắt di chuyển trục thẳng đứng là gì ?
+làm thế nào để thay đổi kích thước đối tượng bằng phím tắt ?
+làm thế nào để xoá vật thể bằng phím tắt ?
+di chuyển tầm nhìn dùng phím tắt gì ?
+phím tắt trên phiên bản của window và macos có khác gì nhau ?

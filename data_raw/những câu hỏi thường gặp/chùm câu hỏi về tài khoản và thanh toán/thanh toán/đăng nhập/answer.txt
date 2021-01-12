@@ -1,0 +1,10 @@
+bạn có thể xem cách khắc phụ không cài đặt được ứng dụng House3D trên MacOS như sau: https://academy.house3d.com/guide/how-to-install-house3d-on-macos?lang=vi
+bạn có thể tìm hiểu bắt đầu House3D như sau: https://academy.house3d.com/guide/bat-dau-voi-house3d-the-nao?lang=vi
+bạn có thể tìm hiểu cách khắc phục lỗi khi chưa cập nhật Internet Expolorer 11 cho windows 7 như sau: https://academy.house3d.com/guide/loi-khi-chua-cap-nhat-internet-explorer-11ie11-cho-windows-7?lang=vi
+bạn có thể tìm hiểu cách khắc phục lỗi không vào được app: https://academy.house3d.com/guide/khong-mo-duoc-app?lang=vi
+bạn có thể tìm hiểu cách khắc phục lỗi ăng ký thành công nhưng khi login thì hệ thống báo "mã đăng ký không đúng hoặc đã được sử dụng" như sau: https://academy.house3d.com/guide/dang-ky-thanh-cong-nhung-khi-login-thi-he-thong-bao-ma-dang-ky-khong-dung-hoac-da-duoc-su-dung?lang=vi
+bạn có thể tìm hiểu cách khắc phục lỗi không thể đăng nhập do email và mật khẩu mất bắt nhập đi nhập lại như sau: https://academy.house3d.com/guide/loi-khong-the-dang-nhap-do-email-va-mat-khau-mat-di-bat-nhap-lai?lang=vi
+bạn có thể tìm hiểu cách sử dụng House 3D trên win 7 như sau: https://academy.house3d.com/guide/may-tinh-cua-toi-cai-win-7-de-su-dung-house3d-thi-lam-the-nao?lang=vi
+bạn có thể tìm hiểu cách khắc phục lỗi cảnh báo "Windows protected your PC" như sau: https://academy.house3d.com/guide/may-tinh-hien-thi-canh-bao-windows-protected-your-pc?lang=vi
+
+

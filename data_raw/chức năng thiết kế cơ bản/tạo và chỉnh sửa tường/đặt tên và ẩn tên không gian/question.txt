@@ -1,0 +1,4 @@
+làm thế nào để đặt tên không gian?
+nếu không gian quá lớn tôi có thể đặt tên theo khu vực như nào?
+làm thế nào để ẩn tên không gian?
+khi tôi render ảnh 720 thì có thể thấy tên không gian như lúc đặt ở ảnh 2d không?

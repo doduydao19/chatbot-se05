@@ -1,0 +1,5 @@
+làm thế nào có thể xoá lịch sử thiết kế dự án?
+có thể xoá phiên bản trong lịch sử thiết kế dự án không?
+không thấy chỗ xoá phiên bản đã tạo trong lịch sử thiết kế dự án?
+có thể xoá tất cả phiên bản trong lịch sử thiết kế dự án không?
+làm thế nào để quán lý lịch sử thiết kế dự án?

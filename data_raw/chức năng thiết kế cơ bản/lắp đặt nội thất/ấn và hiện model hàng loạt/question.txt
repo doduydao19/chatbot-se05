@@ -1,0 +1,13 @@
+làm thế nào để ẩn model?
+làm thế nào để hiện model?
+làm thế nào để ẩn hoặc hiện một đối tượng?
+làm thế nào để ẩn hiện nhiều đối tượng?
+để xem đồ vật đã ẩn đi ở đâu?
+để xem model đã ẩn đi ở đâu?
+làm thế nào để xoá đồ đã ẩn?
+làm thế nào để hiển thị modle đã ẩn?
+làm thế nào để ẩn và hiện trần?
+làm thế nào để ẩn và hiện đồ nội thất?
+làm thế nào để ẩn và hiện cửa?
+tôi không biết chỗ ẩn model ở đâu?
+tôi không biết cho hiện model sau khi ẩn ở đâu?

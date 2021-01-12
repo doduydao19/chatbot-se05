@@ -1,0 +1,14 @@
+làm thế nào để đặt cột vào bản vẽ?
+làm thế nào để chỉnh sửa thông số cột?
+làm thế nào để chỉnh sửa khoảng cách cột với tường?
+làm thế nào để xoá cột?
+làm thế nào để thêm bục?
+làm thế nào để thêm sàn?
+làm thế nào để chỉnh sửa thông số bục và sàn?
+làm thế nào để thêm xà và dầm?
+làm thế nào để chỉnh thông số xà và dầm?
+làm thế nào để xem cột, xà và dầm đã được thêm trong phòng?
+làm thế nào để vẽ cầu thang bằng tấm xà?
+làm thế nào để ẩn cột?
+làm thế nào để ẩn dầm?
+làm thế nào để ẩn xà?

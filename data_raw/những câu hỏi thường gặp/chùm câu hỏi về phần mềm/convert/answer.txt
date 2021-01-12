@@ -1,0 +1,6 @@
+bạn có thể tìm hiểu chức năng của file sketchup cho house3d tại đây: https://academy.house3d.com/guide/house3d-co-chuc-nang-cho-file-sketchup-vao-house3d-khong?lang=vi
+bạn có thể tìm hiểu cách export mô hình ra phần mềm khác tại đây: https://academy.house3d.com/guide/house3d-co-cach-nao-export-mo-hinh-ra-cac-phan-mem-khac-khong?lang=vi
+bạn có thể tìm hiểu thắc mắc về import file bằng mặt cad tại đây: https://academy.house3d.com/guide/co-import-duoc-file-mat-bang-cad-vao-phan-mem-khong?lang=vi
+bạn có thể tìm hiểu cách convert models từ file sketchup sang file 3ds max tại đây: https://academy.house3d.com/guide/huong-dan-covert-models-tu-file-sketchup-sang-file-3ds-max?lang=vik
+bạn có thể tìm hiểu xuất cad hay pdf dạng vector tại đây: https://academy.house3d.com/guide/khi-hoan-thanh-project-co-the-xuat-cad-hay-pdf-dang-vector-de-gui-cho-khach-duoc-khong?lang=vico
+cách khắc phụ lỗi Type error: getClassInstances requires MAXclass , got: undefined" khi convert từ 3ds max sang h3d tại đây: https://academy.house3d.com/guide/convert-tu-3ds-max-sang-h3d-hien-thong-bao-type-error-getclassinstances-requires-maxclass-got-undefined?lang=vi

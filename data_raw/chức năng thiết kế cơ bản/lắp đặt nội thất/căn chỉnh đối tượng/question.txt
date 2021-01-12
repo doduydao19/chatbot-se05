@@ -1,0 +1,11 @@
+làm thế nào để căn chỉnh đối tượng?
+căn chỉnh đối tượng ở đâu?
+căn chỉnh đối tượng phải để ở chế độ nào?
+làm thế nào để căn chỉnh 2 đối tượng?
+có những kiểu căn chỉnh nào?
+làm thế nào để căn chỉnh giữa đối tượng?
+làm thế nào để căn chỉnh dưới đối tượng?
+làm thế nào để căn chỉnh trước đối tượng?
+làm thế nào để căn chỉnh sau đối tượng?
+làm thế nào để căn chỉnh trái phải đối tượng?
+làm thế nào để căn chỉnh trước sau đối tượng?

@@ -1,0 +1,19 @@
+bạn có hướng dẫn một số chức năng của giao diện trên phần mềm house3d không ?
+phần mềm có những thiết kế mẫu nào?
+có những phong cách thiết kế nào?
+biểu tượng nhãn hiệu trong phần mềm là gì ?
+làm thế nào để tạo một dự án mới?
+làm thế nào để lưu dự án ?
+lưu, lưu mới và lưu về máy khác gì nhau ?
+trong lúc tôi đang thiết kế thì diện tích kích thước phòng bị thay đổi, làm thế nào trên phần mềm house3d tôi khắc phục được điều đó ?
+làm thế nào để xem một số phím tắt của phần mềm house 3d?
+có bao nhiêu chế độ nhìn trên phần mềm?
+làm thế nào để xem toàn bộ mặt bằng của dự án trên phần mềm house 3d?
+render dự án ở vị trí nào trên phần mềm ?
+phần thiết kế của phần mềm nằm ở đâu ?
+có thể thay đổi được ngôn ngữ của phần mềm house3d không ?
+làm thế nào để xem được các file dự án trên phần mềm?
+phần thiết kế chức năng của phần mềm ở đâu ?
+có thể thay đổi được tốc độ chuột trên phần mềm không ?
+có tài liệu hướng dẫn cách sử dụng phần mềm house3d không ?
+làm thế nào để thay đổi các thông số độ cao và độ dày của phần mềm không ?

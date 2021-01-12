@@ -1,0 +1,7 @@
+làm thế nào để thay đổi texture cho đồ nội thất?
+tôi không biết thay đổi texture cho đồ nội thất ở đâu?
+thư viện model nào mới thay đổi được texture?
+có thể thay đổi texture khác thư viện của model không?
+làm thế nào để biết model có thể thay đổi được texture hay không?
+thay đổi kích thước texture như thế nào?
+thay đổi texture cho đồ nội thất ở đâu trong giao diện làm việc?

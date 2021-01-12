@@ -1,0 +1,1 @@
+bạn có thể tìm hiểu cách upload texture lên bộ sưu tập gạch trong subapp qua tài liệu sau: https://academy.house3d.com/guide/upload-texture-len-bo-suu-tap-gach-trong-subapp?lang=vi

@@ -5,6 +5,7 @@ from keras.models import load_model
 import pickle
 import json
 from preProcess import processing
+import sys
 
 with open('../../chatbot-se05/dataset/intents.json') as json_data:
     intents = json.load(json_data)
@@ -69,10 +70,19 @@ def predict(sentence):
             contexture.append((intent['contexture_lv1'], intent['contexture_lv2']))
             response = random.choice(intent['answers'])
 
-    # print("Câu trả lời:", response)
+
     return response
 
 if __name__ == '__main__':
-    question = input("User: ")
-    answer = predict(question)
-    print("Chatbot: ",answer)
+
+    print("chat: thoát . Để thoát khỏi chương trình")
+
+    flag = 1
+    while (flag):
+        question = input("User: ")
+        if question != "thoát":
+            answer = predict(question)
+            print("Chatbot: ",answer)
+        else:
+            flag = 0
+    print("Good bye!")

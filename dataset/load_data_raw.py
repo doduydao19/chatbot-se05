@@ -1,7 +1,7 @@
 import os
 import json
 import sys
-path = "C:/Users/Mr.SpAm-PC/Documents/Git/SE05-Nhom23/data_raw"
+path = "../SE05-Nhom23/data_raw"
 
 class Doc:
     def __init__(self,filename):
@@ -104,6 +104,6 @@ def wirte_intents(path_data_raw,path_out):
     file_out.write(result)
     file_out.close()
 if __name__ == '__main__':
-    path_data_raw = "C:/Users/Mr.SpAm-PC/Documents/Git/SE05-Nhom23/data_raw"
-    path_out = "C:/Users/Mr.SpAm-PC/Documents/Git/SE05-Nhom23/dataset/intents"
+    path_data_raw = "../SE05-Nhom23/data_raw"
+    path_out = "../SE05-Nhom23/dataset/intents"
     wirte_intents(path_data_raw,path_out)

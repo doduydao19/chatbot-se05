@@ -54,7 +54,7 @@ def update_dataset(database):
         intents.append(intent)
     result={"intents": intents}
     result =json.dumps(result, ensure_ascii=False,indent=4)
-    file_out = '../chatbot-se05/sql/intents1.json'
+    file_out = 'update/intents1.json'
     file_out = open(file_out,"w",encoding="utf-8")
     file_out.write(result)
     file_out.close()
@@ -69,7 +69,7 @@ from keras.layers import Dense,Dropout
 import pickle
 
 def buil_new_model():
-    with open('../chatbot-se05/sql/intents1.json') as json_data:
+    with open('update/intents1.json') as json_data:
         intents = json.load(json_data)
 
     words = []
@@ -98,10 +98,10 @@ def buil_new_model():
 
     classes = sorted(list(set(classes)))
 
-    pickle.dump(words, open('../chatbot-se05/sql/words.pkl', 'wb'))
-    pickle.dump(classes, open('../chatbot-se05/sql/classes.pkl', 'wb'))
-    pickle.dump(documents, open('../chatbot-se05/sql/documents.pkl', 'wb'))
-    pickle.dump(ignore_words, open('../chatbot-se05/sql/ignore_words.pkl', 'wb'))
+    pickle.dump(words, open('update/words.pkl', 'wb'))
+    pickle.dump(classes, open('update/classes.pkl', 'wb'))
+    pickle.dump(documents, open('update/documents.pkl', 'wb'))
+    pickle.dump(ignore_words, open('update/ignore_words.pkl', 'wb'))
 
     dataset = []
     output = []
@@ -157,7 +157,7 @@ def buil_new_model():
     model.summary()
     model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['acc'])
     history = model.fit(np.array(train_x), np.array(train_y), epochs=4000, batch_size=32)
-    model_path = "../chatbot-se05/sql/H3D.h5"
+    model_path = "update/H3D.h5"
     model.save(model_path)
 
     # Evaluate the model on the test data using `evaluate`

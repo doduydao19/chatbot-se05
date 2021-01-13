@@ -47,7 +47,7 @@ def wirte_intents(file_sql,file_out):
     file_out.close()
 
 if __name__ == '__main__':
-    file_sql = '../../chatbot-se05/sql/CHATBOTH3D-1.json'
-    file_intents = '../../chatbot-se05/sql/intents.json'
+    file_sql = '/CHATBOTH3D-1.json'
+    file_intents = '/intents.json'
     wirte_intents(file_sql,file_intents)
     print("Done")

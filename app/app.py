@@ -87,7 +87,7 @@ def response(sentence, userID, show_details=False):
     #                     return (random.choice(i['answers']))
     #         results.pop(0)
 
-#sql
+#update
 
 host_name = "localhost"
 user_name = "root"
@@ -131,7 +131,7 @@ print(response("render facebook ?", "123", show_details=True))
 #             return "Verification token mismatch", 403
 #         return request.args["hub.challenge"], 200
 #
-#     return "Xin chào, đây là Đạo Đỗ Duy", 200
+#     return "Xin chào, đây là ChatbotH3D", 200
 #
 #
 # @app.route('/', methods=['POST'])

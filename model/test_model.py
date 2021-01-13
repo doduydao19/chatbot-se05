@@ -18,20 +18,8 @@ words = pickle.load(open('../../chatbot-se05/app/words.pkl', 'rb'))
 classes = pickle.load(open('../../chatbot-se05/app/classes.pkl', 'rb'))
 documents= pickle.load(open('../../chatbot-se05/app/documents.pkl', 'rb'))
 ignore_words = pickle.load(open('../../chatbot-se05/app/ignore_words.pkl', 'rb'))
-
-
-fileName = "../../chatbot-se05/process/StopWords"
-file_Stop_word = open(fileName,"r",encoding="utf-8")
-stopWords = set()
-for line in file_Stop_word:
-    line = line.strip("\n")
-    stopWords.add(line)
-
-ignore_words = list(stopWords)
-
-
+bag = []
 for doc in documents:
-    bag = []
     question_words = doc[0]
     question_words = [word.lower() for word in question_words if len(word) > 1]
     for w in words:
@@ -88,4 +76,3 @@ if __name__ == '__main__':
     question = input("User: ")
     answer = predict(question)
     print("Chatbot: ",answer)
-

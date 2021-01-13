@@ -1,0 +1,1508 @@
+[
+{"type":"header","version":"4.9.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"CHATBOTH3D"},
+{"type":"table","name":"Lát gạch kiểu cối xay gió","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Bàn bar bếp","database":"CHATBOTH3D","data":
+[
+{"Question":"Xem danh sách các texture của gian hàng ở đâu?","Answer":"ko biet"},
+{"Question":"Xem danh sách các texture của gian hàng ở đâu?","Answer":"bạn có thể tìm hiểu "},
+{"Question":"Xem danh sách các texture của gian hàng ở đâu?","Answer":"do duy dao"},
+{"Question":"Xem danh sách các texture của gian hàng ở đâu?","Answer":"bạn có thể tìm hiểu "}
+]
+}
+,{"type":"table","name":"Chuyển chế độ di chuyển","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chuyển khu vực lát đơn thành khu vực lát có viền","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chuyển tấm cửa tủ thành ngăn kéo","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chuyển tấm thành cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chào hỏi","database":"CHATBOTH3D","data":
+[
+{"Question":"chào bạn","Answer":"Rất hân hạnh xin được gặp bạn"},
+{"Question":"chào","Answer":"Chatbot House 3D rất hân hạnh được đón tiếp bạn"},
+{"Question":"hi bạn","Answer":"Xin chào, rất hân hạnh được đón tiếp quý khách"},
+{"Question":"xin chào công ty house 3d","Answer":"Xin chào quý khách"},
+{"Question":"chào anh chị","Answer":"House 3D rất hân hạnh được đón tiếp quý khách"},
+{"Question":"chào công ty h3d","Answer":"Xin chào quý khách, House 3D rất hân hạnh được phục vụ"},
+{"Question":"hello","Answer":"Xin chào quý khách, House 3D rất hân hạnh được phục vụ"},
+{"Question":"chào anh","Answer":"House 3D rất hân hạnh được đón tiếp quý khách"},
+{"Question":"chào chị","Answer":"House 3D rất hân hạnh được đón tiếp quý khách"},
+{"Question":"cho tôi hỏi","Answer":"Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn"},
+{"Question":"hi ad","Answer":"House 3D rất hân hạnh được đón tiếp quý khách"},
+{"Question":"xin chào ad","Answer":"Cảm ơn quý khách đã liên hệ với House 3D, chúng tôi sẽ giải đáp những thắc mắc của bạn"},
+{"Question":"chào admin","Answer":"Xin chào quý khách, House 3D rất hân hạnh được phục vụ"},
+{"Question":"hi admin","Answer":"Chatbot House 3D rất hân hạnh được đón tiếp bạn"},
+{"Question":"hello ad","Answer":"Xin chào quý khách, House 3D rất hân hạnh được phục vụ"},
+{"Question":"hi admin","Answer":"Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn"},
+{"Question":"hi admin","Answer":"Cảm ơn quý khách liên hệ với House 3D, chúng tôi sẽ giải đáp những câu hỏi của bạn"}
+]
+}
+,{"type":"table","name":"Chế độ render 2D","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chế độ render 720 đơn điểm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chế độ tấm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chỉnh góc camera trên bản đồ của ảnh 720 đa điểm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chỉnh sửa phào chân tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chỉnh sửa phào cửa phòng tắm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chỉnh sửa ảnh render 720","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chức năng chế độ hiển thị","database":"CHATBOTH3D","data":
+[
+{"Question":"bên mình có thiết bị hỗ trợ xem vr không?","Answer":"bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https:\/\/academy.house3d.com\/guide\/chuyen-doi-che-do-hien-thi?lang=vi"},
+{"Question":"chế độ hiển thị 3d khác chế độ hiển thị vr như thế nào?","Answer":"bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https:\/\/academy.house3d.com\/guide\/chuyen-doi-che-do-hien-thi?lang=vi"},
+{"Question":"               chế độ viền và tách viền khác gì nhau ?","Answer":"bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https:\/\/academy.house3d.com\/guide\/chuyen-doi-che-do-hien-thi?lang=vi"},
+{"Question":"cloud rendering là gì?","Answer":"bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https:\/\/academy.house3d.com\/guide\/chuyen-doi-che-do-hien-thi?lang=vi"},
+{"Question":"có bao nhiêu chế độ hiển thị?","Answer":"bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https:\/\/academy.house3d.com\/guide\/chuyen-doi-che-do-hien-thi?lang=vi"},
+{"Question":"có tài liệu hướng dẫn về các chế độ hiển thị không?","Answer":"bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https:\/\/academy.house3d.com\/guide\/chuyen-doi-che-do-hien-thi?lang=vi"},
+{"Question":"làm thế nào để chuyển đổi chế độ hiển thị ?","Answer":"bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https:\/\/academy.house3d.com\/guide\/chuyen-doi-che-do-hien-thi?lang=vi"},
+{"Question":"làm thế nào để xem ảnh render của dự án?","Answer":"bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https:\/\/academy.house3d.com\/guide\/chuyen-doi-che-do-hien-thi?lang=vi"},
+{"Question":"nếu không có kính thì chế độ vr và 3d có khác nhau nhiều không?","Answer":"bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https:\/\/academy.house3d.com\/guide\/chuyen-doi-che-do-hien-thi?lang=vi"},
+{"Question":"tải phần mềm file vr về được không?","Answer":"bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https:\/\/academy.house3d.com\/guide\/chuyen-doi-che-do-hien-thi?lang=vi"},
+{"Question":"ảnh 2d tĩnh chế độ fullhd 4 không hiển thị tính chất vật liệu hề thua kém 3ds max đôi khi nhỉ?","Answer":"bạn có thể vào trang web này để tìm hiểu chi tiết về chức năng chế độ hiển thị: https:\/\/academy.house3d.com\/guide\/chuyen-doi-che-do-hien-thi?lang=vi"},
+{"Question":"ở định dạng 3d và vr có thể thay đổi chế độ hiển thị nào ?","Answer":"bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https:\/\/academy.house3d.com\/guide\/mot-so-kieu-ve-tuong?lang=vi"}
+]
+}
+,{"type":"table","name":"Chức năng cơ bản","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chức năng hỗ trợ thi công","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chức năng phân bố đều tấm trong tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chức năng section cut","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Chức năng tự động bắt dính","database":"CHATBOTH3D","data":
+[
+{"Question":"chức năng tự đông bắt dính là gì?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"có tài liệu giới thiệu về chức năng tự động bắt dính của phần mềm không ?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"làm thế nào có thể đặt vật tự động bám trên sàn nhà bằng điểm bắt dính ?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"làm thế nào để bắt dính góc cạnh của viên gạch ?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"làm thế nào để có thể tự động xếp chồng lên đồ vật khác bằng chức năng tự động bắt dính ?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"làm thế nào để tự động dính đồ vật lên trần nhà (như đèn, quạt) bằng chức năng tự động bắt dính ?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"tắt chế độ bắt dính như thế nào ?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"điểm bắt dính desktop là gì?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"điểm bắt dính floor adsorb là gì?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"điểm bắt dính floor là gì?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"điểm bắt dính free là gì?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"điểm bắt dính stick floor là gì?\"","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"điểm bắt dính top là gì?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"},
+{"Question":"điểm bắt dính wall là gì?","Answer":"bạn có thể tìm hiểu về chế độ bắt dính trong link này: https:\/\/academy.house3d.com\/guide\/chuc-nang-tu-dong-bat-dinh?lang=vi"}
+]
+}
+,{"type":"table","name":"Chức năng đóng góp mặt bằng","database":"CHATBOTH3D","data":
+[
+{"Question":"xin chao","Answer":"hi"}
+]
+}
+,{"type":"table","name":"Covert models  sketchup to file h3d","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cài đặt lưu nhanh góc nhìn","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Các cách lát tấm ốp","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Các cách thức lát khác nhau","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cách kéo thả đồ đạc","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cách lưu dự án","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cách lắp trần nhà","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cách lắp đặt tủ cơ bản có kích thước đặc biệt","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cánh cửa chỉnh sửa đai tủ và số cánh cửa trượt","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cánh cửa tạo cánh cửa trượt","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cánh cửa tạo cửa tủ góc tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Có gắn đèn","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Căn chỉnh giữa gạch hoặc khu vực lát","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Căn chỉnh khu vực cắt","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Căn chỉnh tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Căn chỉnh vị trí giữa các cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Căn chỉnh vị trí giữa các tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Căn chỉnh đối tượng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Căn trần vào vị trí chính giữa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cắt,chia tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cắt góc cho viên gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cột, sàn, dầm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cửa tủ chia cửa tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cửa tủ chuyển mặt bênh tủ thành cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cửa tủ chuyển tấm cửa thành ngăn kéo","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"cửa tủ sao chép định dạng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cửa tủ thay đổi kiếu tấm cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cửa tủ thay đổi kiểu ngăn kéo","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cửa tủ thay đổi tham số cửa tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cửa tủ tạo cửa tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Cửa tủ tạo ngăn kéo","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Di chuyển bồn tắm trong phòng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Di chuyển gạch và bắt đối tượng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Di chuyển và chỉnh sửa kích thước đối tượng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Di chuyển và xoay cửa sổ có số đo cụ thể","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Di chuyển và xoay tủ có số đo cụ thể","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Di chuyển và xoay vách cửa có số đo cụ thể","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Dim và xuất báo giá cho tủ kệ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Dán phủ vật liệu trần nghiêng dầm giữa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Ghép ảnh 720 đơn điểm đa điểm V2","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"ghép ảnh render 720 do tạo thành 720 do đa điểm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Giới thiệu giao diện thiết kế","database":"CHATBOTH3D","data":
+[
+{"Question":"biểu tượng nhãn hiệu trong phần mềm là gì ?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"bạn có hướng dẫn một số chức năng của giao diện trên phần mềm house3d không ?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"có bao nhiêu chế độ nhìn trên phần mềm?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"có những phong cách thiết kế nào?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"có thể thay đổi được ngôn ngữ của phần mềm house3d không ?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"có thể thay đổi được tốc độ chuột trên phần mềm không ?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"có tài liệu hướng dẫn cách sử dụng phần mềm house3d không ?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"làm thế nào để lưu dự án ?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"làm thế nào để thay đổi các thông số độ cao và độ dày của phần mềm không ?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"làm thế nào để tạo một dự án mới?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"làm thế nào để xem một số phím tắt của phần mềm house 3d?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"àm thế nào để xem toàn bộ mặt bằng của dự án trên phần mềm house 3d?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"làm thế nào để xem được các file dự án trên phần mềm?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"lưu, lưu mới và lưu về máy khác gì nhau ?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"phần mềm có những thiết kế mẫu nào?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"phần thiết kế chức năng của phần mềm ở đâu ?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"render dự án ở vị trí nào trên phần mềm ?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"},
+{"Question":"trong lúc tôi đang thiết kế thì diện tích kích thước phòng bị thay đổi, làm thế nào trên phần mềm house3d tôi khắc phục được điều đó ?","Answer":"bạn có thể tìm hiểu về giao diện thiết kế của phần mềm House3D qua tài liệu này: https:\/\/academy.house3d.com\/guide\/gioi-thieu-giao-dien-thiet-ke-house3d?lang=vi"}
+]
+}
+,{"type":"table","name":"Hiệu chỉnh ảnh sáng nâng cao","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Hướng dẫn cách xoay viên gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Hướng dẫn dán cạnh","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Hướng dẫn thanh toán online","database":"CHATBOTH3D","data":
+[
+{"Question":"Hcoin là gì ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"Hcoin tương ứng với bao nhiêu vnđ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"bên house3d có những phương thức thanh toán nào ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"bên mình có hỗ trợ thanh toán bằng VNPAY QR không ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"bên mình hỗ trợ thanh toán qua những ngân hàng nào ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"cách thanh toán online ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"có hướng dẫn chi tiết về thanh toán cho house3d không ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"có những mức thời gian sử dụng nào ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"có những mức thời gian sử dụng nào ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"có thể chuyển khoản trực tiếp đến công ty house3d không ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"có thể thanh toán qua paypal không ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"có thể thanh toán trực tiếp tại công ty house3d không ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"kiểm tra số lượng hcoin trong tài khoản thanh toán thế nào?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"loại tiền sử dụng thanh toán của house3d là gì ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"làm thế nào để kiểm tra lịch sử giao dịch ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"làm thế nào để mua những dịch vụ của house3d ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"làm thế nào để nạp hcoin vào tài khoản?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"làm thế nào để nạp tiền vào tài khoản?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"làm thế nào để thanh toán trên house3d ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"nạp hcoin vào tài khoản như thế nào?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"nếu giao dịch không thành côn thì có bị trừ tiền trong tài khoản không ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"trang web thanh toán của house3d là gì ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"},
+{"Question":"xem lịch sử giao dịch ở đâu ?","Answer":"bạn có thể hiểu chi tiết về phương thức thanh toán chi tiết qua tài liệu này: https:\/\/academy.house3d.com\/guide\/huong-dan-thanh-toan-online?lang=vi"}
+]
+}
+,{"type":"table","name":"Hướng dẫn up bản đồ vào ảnh 720","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Hướng dẫn upload ảnh render 720 lên hệ thống","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Hướng dẫn đổi icon chuyển hướng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Khoá tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Khu vực lối đi","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Kệ để tivi","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Làm gạch viền đai tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Làm đai tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Làm đai tường gồ ra","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lát gạch kiểu vảy cá","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lát kiểu con bướm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lát kiểu hình thoi","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lát kiểu nghiêng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lát thảm gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lát toàn bộ bề mặt","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lát tuỳ ý (xoay hoa văn gạch)","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lát tất cả tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lát từ trung tâm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lát từ điểm xác định trước","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lưu lịch sử thiết kế dự án","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lưu tổ hợp tấm ốp vào bộ sưu tập","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt background","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt bếp và máy hút mùi","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt bền xả nước","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt bồn cầu và kệ giấy vệ sinh","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"lắp đặt bồn tắm và kệ khăn","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt chậu rửa bát và vòi rửa bát","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt cửa nhà tắm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt giá đựng bát","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt khung cửa trượt","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt mặt bàn bếp","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt mặt bàn bếp nâng cao","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt ngăn ngăn tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt phào nóc và phào chân tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt phào trần giật cấp","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt phào trần nâng cao","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt phòng xông hơi","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt thanh nhôm trần","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt thanh treo quần áo","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt thiết bị trong tủ bếp -video","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt thiết bị điện trong bếp","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt tường đèn cho tủ treo","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt tấm ngăn tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt tủ cao và tủ nhỡ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt tủ chức năng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt tủ góc treo","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt tủ không cánh","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt tủ mặt đất tránh cột nhà","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt tủ treo có cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt tủ treo không cánh","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt tủ treo tránh cột nhà","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt tủ treo tránh dầm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt và xoá tay nắm cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lắp đặt vòi hoa sen","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Lịch đào tạo hàng tuần","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Một số kiểu vẽ tường","database":"CHATBOTH3D","data":
+[
+{"Question":"Có những kiểu vẽ tường nào?","Answer":"bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https:\/\/academy.house3d.com\/guide\/mot-so-kieu-ve-tuong?lang=vi"},
+{"Question":"có tài liệu hướng dẫn về một số cách vẽ tường không?","Answer":"bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https:\/\/academy.house3d.com\/guide\/mot-so-kieu-ve-tuong?lang=vi"},
+{"Question":"làm thế nào để nhập độ dài trong lúc vẽ tường?","Answer":"bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https:\/\/academy.house3d.com\/guide\/mot-so-kieu-ve-tuong?lang=vi"},
+{"Question":"làm thế nào để tạo căn phòng bằng vẽ tường?","Answer":"bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https:\/\/academy.house3d.com\/guide\/mot-so-kieu-ve-tuong?lang=vi"},
+{"Question":"vẽ nét giữa trong vẽ tường là gì?","Answer":"bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https:\/\/academy.house3d.com\/guide\/mot-so-kieu-ve-tuong?lang=vi"},
+{"Question":"vẽ nét giữa, vẽ nét trong và ngoài tường khác gì nhau?","Answer":"bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https:\/\/academy.house3d.com\/guide\/mot-so-kieu-ve-tuong?lang=vi"},
+{"Question":"vẽ nét ngoài tường là gì?","Answer":"bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https:\/\/academy.house3d.com\/guide\/mot-so-kieu-ve-tuong?lang=vi"},
+{"Question":"vẽ nét trong tường là gì?","Answer":"bạn có thể tìm hiểu về một số kiểu vẽ tường qua tài liệu sau: https:\/\/academy.house3d.com\/guide\/mot-so-kieu-ve-tuong?lang=vi"}
+]
+}
+,{"type":"table","name":"Mở và đóng cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Mở và đóng cửa tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Nghiêng dầm giữa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Nhóm và tách nhóm các đối tượng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Nhúng video vào điểm ảnh 720 Panorama đa điểm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Phào tạo phào kiểu thủ công","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Phào tạo phào nóc hình dạng đặc biệt","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Phào tạo và chỉnh sửa phào nóc tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Phân cánh tủ thành nhiều ngăn","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Phím tắt thiết kế trần và tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Phím tắt thường dùng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Quét chân cửa tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Quét chất liệu","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Quét chất liệu cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Quét kiểu dáng cửa tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Render Bird's eye","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Sao chép gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Sao chép và xoá","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Sao chép và xoá khung thiết kế","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Sao chép và xoá tấm ốp vật liệu trần","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Sao chép đinh dạng gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Sao chép đối tượng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Texture giấy dán tường và nền","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay thế gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay thế nhanh bằng sản phẩm cùng loại","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi chất liệu cửa gỗ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi chất liệu cửa tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi chất liệu khung đai tủ và ray trên dưới","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi chất liệu mạch gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi chất liệu phào cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi chất liệu phào nóc","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi chất liệu phào nóc tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi chất liệu tấm cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi chất liệu tấm cửa phòng tắm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi chất liệu tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi hướng chất liệu","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi kiểu cánh cửa tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi kiểu cửa tay nắm âm tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi kiểu tay nắm cửa nhanh","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi kiểu tay nắm cửa nhanh chóng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi kích cỡ hoa văn","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi kích thước chất liệu","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi kích thước gạch và cắt gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi kích thước tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi kích thước và di chuyển tấm ốp trần","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi texture cho đồ thất","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi thuộc tính mở cửa tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"thay đổi thông số tấm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi tấm ốp nhanh","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thay đổi vật liệu tấm ốp trần","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế bậc cầu thang lên xuống","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế bể bơi","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế căn hộ tầng lửng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế cảnh quan với house3d-video","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế cầu thang chuyển góc","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế cầu thang hình chữ L chuyển góc","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế cầu thang thẳng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế hình chữ nhật","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế hình tròn","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế hình đa giác","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế hình đặc biệt","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết kế trên một cách chính xác","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết lập góc nhìn render","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết lập khu vực lát dọc","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết lập khu vực lát ngang","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thiết lập quang cảnh bên ngoài","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thoát và thay đổi tài khoản","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thêm cửa và cửa sổ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thêm cửa vào mục yêu thích","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thêm cửa vào Pillar","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thêm nhãn tuỳ chọn Vr 720","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thêm phào cửa phòng tắm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thêm thiết kế sẵn vào tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thêm âm thanh vào Vr 720","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Thêm đối tượng vào yêu thích","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tinh chỉnh hình ảnh sau render","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tool convert 3ds max sang h3d","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Training cơ bản-video","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Trang trí tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Trang trí tường 1","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Trang trí tường 2","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Trang trí tường 3","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Trình chiếu ảnh render 720","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tuỳ chỉnh kích thước gạch và xoay gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tuỳ chỉnh len chân tường, phào trần","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tuỳ chỉnh số cạnh và độ dày viên gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tuỳ chỉnh tường nâng cao","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tìm dự án","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tìm hiểu lịch sử lưu dự án","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tìm kiếm model cửa theo tên","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tìm kiếm model tủ theo tên","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo bàn bếp đơn giản","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo cánh cửa tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo khe và vát cạnh cho gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo khu vực lát hình dạng đặc biệt","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo khu vực lát hình tròn","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo khu vực lát hình tứ giác","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo khu vực lát vị trí  chính xác","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo khu vực viền gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo mới, chỉnh sửa,xoá danh mục cho gian hàng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo nhóm và lưu cửa vào yêu thích","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo nhóm và lưu tủ yêu thích","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo tag, chỉnh sửa và xoá tag trong gian hàng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo trần có cửa sổ trời","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo tường background trang trí","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tạo đường viền gạch nền và đại tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tải ảnh facebook 360","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tấm tủ thay đổi tham số của tấm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tấm tủ tạo tấm hình dạng tuỳ chỉnh","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tấm tủ xoá tấm tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ căn chỉnh giữa các tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ giày","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ góc tròn","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ lắp tủ cửa trượt tránh cột nhà","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ lắp đặt phụ kiện tủ quần áo","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ lắp đặt tấm ngăn tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ lắp đặt tủ nóc","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ nhóm tủ và lưu tủ vào bộ sưu tập","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ rươu","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ âm tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ âm tường 2","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Tủ đo kích thước giữa 2 tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"upload,chỉnh sửa,xoá,gán tag cho model cho gian hàng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Upload,chỉnh sửa, xoá,gán tag texture gian hàng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Upload model và texture lên thư viện cá nhân","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Upload texture lên bộ sư tập gạch subapp","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Up model cửa lên thư viện cá nhân","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Vào giao diện thiết kế_trần_tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xiên kim tự tháp","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xoay chất liệu cửa nhà tắm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xoay hoa văn tấm ốp","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xoá dự án","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xoá lịch sử thiết kế dự án","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xoá toàn bộ gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xuất bán giá tủ quần áo","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xuất báo giá cho gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xuất báo giá tủ bếp","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xuất bản gia công gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xuất bản vẽ 2D cho tủ bếp","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xuất bản vẽ 2D phòng tắm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xuất bản vẽ 2D tủ quần áo","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xuất bản vẽ sơ đồ mặt bằng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xuất bản vẽ thi công gạch","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xuất ra bản vẽ 2D","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xác định điểm đầu bắt đầu lát","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Xử lý khe gạch khi lát cho cột","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Đo khoảng cách giữa các đối tượng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Đo khoảng cách và kích thước giữa các cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Đo kích thước và khoảng cách giữa các tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Đo kích thước và khoảng cách giữa các vách cửa","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Đo tường từ bản vẽ sơn đồ mặt bằng","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Đăng ký và cài đặt macos","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Đăng ký và cài đặt windows","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Đặt tên và ẩn tên không gian","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Đặt ánh sáng tăng cường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Đặt đèn chùm","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Đục tường","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Ẩn,hiện tường ngoài","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Ẩn hiện tham số tủ","database":"CHATBOTH3D","data":
+[
+
+]
+}
+,{"type":"table","name":"Ẩn và hiện model hàng loạt","database":"CHATBOTH3D","data":
+[
+
+]
+}
+]
